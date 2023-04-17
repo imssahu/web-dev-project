@@ -14,5 +14,5 @@ The website is built using the following technologies:
 * css
 * javascript
 # Usage
-Once the development server is running, you can access the website at http://localhost:3000. 
+Once the development server is running, you can access the website at . 
 You can create a new account or log in with an existing account to start searching for and reserving accommodations.
