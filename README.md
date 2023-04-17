@@ -1,5 +1,5 @@
 # Booking Website
-This is a booking website that allows users to reserve various types of accommodations such as hotels, resorts, and homestays. 
+This is a booking website named Booking.com that allows users to reserve various types of accommodations such as hotels, resorts, and homestays. 
 Users can search for available accommodations by location, date range, and price range, and make a reservation through the website.
 Table of Contents
 # Features
