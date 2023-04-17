@@ -7,6 +7,8 @@ Table of Contents
 * booking in buses
 * booking in trains
 * booking in flights
+# Video link
+https://drive.google.com/file/d/1Qo6ZhmVM_LkutXZkHrI8MIFda3tHypwJ/view?usp=sharing
 # Tech stack
 The website is built using the following technologies:
 
