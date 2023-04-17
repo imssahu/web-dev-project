@@ -14,5 +14,5 @@ The website is built using the following technologies:
 * css
 * javascript
 # Usage
-Once the development server is running, you can access the website at https://web-dev-project-gx1s-i2nmqc07t-imssahu.vercel.app/ . 
+you can access the website at https://web-dev-project-gx1s-i2nmqc07t-imssahu.vercel.app/ . 
 You can create a new account or log in with an existing account to start searching for and reserving accommodations.
